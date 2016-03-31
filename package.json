@@ -1,6 +1,6 @@
 {
   "name": "hubot-wondermark-comics",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Hubot script for retrieving Wondermark comics (http://wondermark.com)",
   "repository": {
     "type": "git",
